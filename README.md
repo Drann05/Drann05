@@ -41,18 +41,6 @@
 
 ###
 
-<p align="center">(I'm also a passionate musician)</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/p5fca3phava90qd9hol7linnw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p5fca3phava90qd9hol7linnw&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">Connect with me:</h3>
 
 ###
