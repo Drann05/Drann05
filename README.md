@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Drann05/Drann05/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Drann05/Drann05/output/snake.yml" alt="Snake animation" />
 
 ###
 
