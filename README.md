@@ -38,18 +38,6 @@
 
 <p align="left">- 🌱 I’m currently learning: Socket programming in Java<br><br>- 📫 How to reach me: Drann05@proton.me</p>
 
-###
-
-<h3 align="left">Connect with me:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/gioelespano_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=gioelespano_&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=drann_&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
 
 ###
 
@@ -61,6 +49,19 @@
   <a href="https://open.spotify.com/user/p5fca3phava90qd9hol7linnw">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=p5fca3phava90qd9hol7linnw&count=5" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<h3 align="left">Connect with me:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/gioelespano_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=gioelespano_&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=drann_&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
 ###
