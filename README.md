@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning: Socket programming in Java<br><br>- 📫 How to reach me: Drann05@proton.me</p>
+- 📫 How to reach me: Drann05@proton.me</p>
 
 
 ###
