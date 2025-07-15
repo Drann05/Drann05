@@ -1,10 +1,6 @@
 <h2 align="left">Hi 👋! My name is Gioele and I'm from Italy.</h2>
 
-###
 
-<p align="left">As an ambitious student fully immersed in the dynamic realm of programming, I am deeply passionate about exploring every facet of information technology. Eager to enhance my skills and contribute meaningfully to the world of tech, I am always ready to embrace new challenges and opportunities for growth.</p>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Drann05&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
